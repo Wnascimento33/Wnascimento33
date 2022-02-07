@@ -3,7 +3,7 @@ Olá! sou Wellington Antonio do Nascimento
 
 - 💻 Atualmente sou estudante de ADS(universidade Estácio) e Engenharia de controle e Automação(UFRPE)
 - 💻 Aprendendo python (nivel intermediario), c++ (nivel basico)
-- 💻 iniciando aprendizado em java 
+- 💻 Iniciando estudo em java
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wnascimento33&show_icons=true&theme=dark)
 
