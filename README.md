@@ -1,7 +1,7 @@
 Olá! sou Wellington Antonio do Nascimento
 
 
-- 💻  Estudante de ADS(Analise e Desenvolvimento de Sistemas)
+- 💻 ADS(Analise e Desenvolvimento de Sistemas)
 - 💻 python 
 - 💻 Java
 - 💻 C
